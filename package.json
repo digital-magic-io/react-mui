@@ -1,6 +1,6 @@
 {
   "name": "@digital-magic/react-mui",
-  "version": "18.2.1",
+  "version": "18.2.2",
   "description": "Mui5 tools for React applications written with TS",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
